@@ -1,0 +1,1 @@
+The Simple Password Generator App is a lightweight desktop application built using Python and Tkinter. It generates strong, random passwords based on user-defined criteria such as length and character types. Designed for quick use and enhanced security, the app ensures safe and easy password creation for everyday digital needs.
